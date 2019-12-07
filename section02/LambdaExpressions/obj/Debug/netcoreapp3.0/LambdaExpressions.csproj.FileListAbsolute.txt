@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\LambdaExpressions\bin\Debug\netcoreapp3.0\LambdaExpressions.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\LambdaExpressions\obj\Debug\netcoreapp3.0\LambdaExpressions.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\LambdaExpressions\obj\Debug\netcoreapp3.0\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\LambdaExpressions\obj\Debug\netcoreapp3.0\LambdaExpressions.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\LambdaExpressions\obj\Debug\netcoreapp3.0\LambdaExpressions.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\LambdaExpressions\obj\Debug\netcoreapp3.0\LambdaExpressions.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExceptionHandling\bin\Debug\netcoreapp3.0\ExceptionHandling.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExceptionHandling\obj\Debug\netcoreapp3.0\ExceptionHandling.pdb

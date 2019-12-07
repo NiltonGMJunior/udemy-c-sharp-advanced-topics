@@ -1,0 +1,17 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\bin\Debug\netcoreapp3.0\Async.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\bin\Debug\netcoreapp3.0\Async.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\bin\Debug\netcoreapp3.0\Async.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\bin\Debug\netcoreapp3.0\Async.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\bin\Debug\netcoreapp3.0\Async.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\bin\Debug\netcoreapp3.0\Async.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\obj\Debug\netcoreapp3.0\Async.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\obj\Debug\netcoreapp3.0\Async_MarkupCompile.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\obj\Debug\netcoreapp3.0\Async_MarkupCompile.lref
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\obj\Debug\netcoreapp3.0\Async.g.resources
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\obj\Debug\netcoreapp3.0\Async.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\obj\Debug\netcoreapp3.0\Async.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\obj\Debug\netcoreapp3.0\Async.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Async\obj\Debug\netcoreapp3.0\Async.pdb

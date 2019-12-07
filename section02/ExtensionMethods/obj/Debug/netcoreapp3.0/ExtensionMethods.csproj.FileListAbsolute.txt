@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExtensionMethods\obj\Debug\netcoreapp3.0\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExtensionMethods\obj\Debug\netcoreapp3.0\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExtensionMethods\obj\Debug\netcoreapp3.0\ExtensionMethods.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExtensionMethods\obj\Debug\netcoreapp3.0\ExtensionMethods.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\ExtensionMethods\obj\Debug\netcoreapp3.0\ExtensionMethods.pdb

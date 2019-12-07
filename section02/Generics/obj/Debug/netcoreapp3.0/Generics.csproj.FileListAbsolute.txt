@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Generics\bin\Debug\netcoreapp3.0\Generics.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Generics\bin\Debug\netcoreapp3.0\Generics.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Generics\bin\Debug\netcoreapp3.0\Generics.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Generics\bin\Debug\netcoreapp3.0\Generics.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Generics\bin\Debug\netcoreapp3.0\Generics.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Generics\bin\Debug\netcoreapp3.0\Generics.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Generics\obj\Debug\netcoreapp3.0\Generics.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Generics\obj\Debug\netcoreapp3.0\Generics.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Generics\obj\Debug\netcoreapp3.0\Generics.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Generics\obj\Debug\netcoreapp3.0\Generics.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-advanced-topics\section02\Generics\obj\Debug\netcoreapp3.0\Generics.pdb
